@@ -4,4 +4,7 @@
    <FileRef
       location = "group:../Movies Idea">
    </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
 </Workspace>
